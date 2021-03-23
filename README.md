@@ -1,1 +1,2 @@
-# C-MPASS_predition
+# 基于深度学习的航空发动机剩余寿命预测
+数据集使用NASA开源的C-MAPSS进行实验
