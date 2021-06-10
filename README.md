@@ -23,6 +23,9 @@
 ![proposed_method](D:/桌面/重要文献/刷题/Typora笔记/相关图片/proposed_method.png)
 =======
 然后 /data/VAE_PATCN.ipynb 包含深度学习的模型、训练的内容，训练过程中产生或保存的一些文件都存放到 ./model 中。
+<<<<<<< HEAD
+>>>>>>> 27753c0f4229f2741ff450ec0c49daecd723ca43
+=======
 >>>>>>> 27753c0f4229f2741ff450ec0c49daecd723ca43
 
 主要内容：
