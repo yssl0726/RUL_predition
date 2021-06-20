@@ -26,6 +26,11 @@
 然后 /data/VAE_PATCN.ipynb 包含深度学习的模型、训练的内容，训练过程中产生或保存的一些文件都存放到 ./model 中。
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+![proposed_method](./picture/proposed_method.png)
+
+>>>>>>> b38d90efd453dbd790884a48f96608b867d568cd
 =======
 ![proposed_method](./picture/proposed_method.png)
 
