@@ -7,7 +7,7 @@
 
 首先 /data/dataprocessing.ipynb 是对原始数据进行一些特征选择和特征工程的操作，把处理生成的数据存放到 ./processing_data 中。
 
-主要内容：
+### 主要内容：
 
 1.通过EDA剔除一些故障的传感器（特征）；
 
@@ -21,21 +21,11 @@
 
 ![proposed_method](./picture/VAE.png)
 
-![proposed_method](D:/桌面/重要文献/刷题/Typora笔记/相关图片/proposed_method.png)
+![proposed_method](./picture/proposed_method.png)
 =======
 然后 /data/VAE_PATCN.ipynb 包含深度学习的模型、训练的内容，训练过程中产生或保存的一些文件都存放到 ./model 中。
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-![proposed_method](./picture/proposed_method.png)
-
->>>>>>> b38d90efd453dbd790884a48f96608b867d568cd
-=======
-![proposed_method](./picture/proposed_method.png)
-
->>>>>>> b38d90efd453dbd790884a48f96608b867d568cd
-主要内容：
+### 主要内容：
 
 1.使用变分自编码器（VAE）进行预训练，然后使用编码器部分进行特征提取，使得特征由14维 -> 10维；
 
