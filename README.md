@@ -17,12 +17,17 @@
 
 4.对数据进行MinMaxScaler()；
 
-然后 /data/VAE_PATCN.ipynb 包含深度学习的模型、训练的内容，训练过程中产生或保存的一些文件都存放到 ./model 中。**所提出方法的架构图**如下图所示：
+然后 /data/VAE_PATCN.ipynb 包含深度学习的模型、训练的内容，训练过程中产生或保存的一些文件都存放到 ./model 中。
 
-![proposed_method](./picture/VAE.png)
+**预训练的VAE模型**如下图所示：
+
+![VAE](./picture/VAE.png)
+
+**所提出方法的架构图**如下图所示：
 
 ![proposed_method](./picture/proposed_method.png)
 =======
+
 然后 /data/VAE_PATCN.ipynb 包含深度学习的模型、训练的内容，训练过程中产生或保存的一些文件都存放到 ./model 中。
 
 ### 主要内容：
