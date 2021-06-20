@@ -21,8 +21,7 @@
 
 **预训练的VAE模型**如下图所示：
 
-![VAE](./picture/VAE.png)
-=======
+![vae](./picture/vae.png)
 
 **所提出方法的架构图**如下图所示：
 
